@@ -1,0 +1,26 @@
+.mainContainer {
+  background-color: #ffffff;
+  height: 100vh;
+}
+.darkBackground {
+  background-color: #000000;
+}
+.bottomContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+.lightheading {
+  font-weight: bold;
+  font-size: 50px;
+  margin: 5px;
+}
+.dark {
+  color: #ffffff;
+}
+.icons {
+  width: 250px;
+  height: 250px;
+}

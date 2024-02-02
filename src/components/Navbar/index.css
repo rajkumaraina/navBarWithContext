@@ -1,0 +1,51 @@
+.navBarContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 2px solid #dcdcdc;
+}
+.navBarUnorderedList {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+}
+.theme {
+  width: 35px;
+  height: 35px;
+}
+.navbarListItem {
+  margin: 8px;
+  list-style-type: none;
+}
+.webisiteLogo {
+  width: 35px;
+  height: 35px;
+}
+.NavItemsContainer {
+  display: flex;
+}
+.navItemPara {
+  color: #333333;
+  font-weight: 500;
+  margin: 8px;
+}
+.light {
+  color: #ffffff;
+}
+
+.notFoundPara {
+  color: #64748b;
+}
+.darkThemeContainer {
+  background-color: #333333;
+  border: 0 none;
+}
+.linkElement {
+  text-decoration: none;
+}
+.themeButton {
+  border: 0 none;
+  cursor: pointer;
+  outline: none;
+  background-color: transparent;
+}
